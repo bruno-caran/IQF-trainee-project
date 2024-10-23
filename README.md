@@ -1,7 +1,7 @@
 <h1>General Information <dt></dt></h1>
 Quantitative asset allocation strategy utilizing factor investing and forecasting returns using multiple regression models. 
 
-Full performance attribution, including graphics, is available by downloading the [raw .html file]([link](https://github.com/bruno-caran/IQF-trainee-project/blob/main/quantstats-tearsheet.html)).  The dataset is available in the .zip file.
+Full performance attribution, including graphics, is available by downloading the [raw .html file](https://github.com/bruno-caran/IQF-trainee-project/blob/main/quantstats-tearsheet.html).  The dataset is available in the .zip file.
 
 <h1>Strategy Tearsheet <dt></dt></h1>
 <h4>19 Feb, 2001 - 9 May, 2023</h4>
